@@ -17,7 +17,7 @@ A plugin that analyzes the political bias of the news site you are currently vis
 A productivity tool that functions as a desktop pet, gamifying your daily tasks.
 *   [Demo](https://youtu.be/HSd_d1Ve8fQ)
 
-### Discord AI Assistant
+### [Wingman](https://github.com/YoshikuYuu/wingman)
 **Communication Tool**
 A plugin that can read and hear your Discord conversations (with permission) to provide suggestions on what to say next.
 *   [Demo](https://www.youtube.com/watch?v=ZN2PmIV35e4)
