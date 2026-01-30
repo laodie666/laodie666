@@ -8,6 +8,10 @@ This repository hosts my academic coursework alongside a collection of personal 
 
 ## Featured Projects
 
+### [Mini RTS]([https://github.com/laodie666/Reverb](https://github.com/laodie666/miniRTS-RL))
+**Reinforcement Learning Project**
+A passion project I'm working on to gain skills in reinforcement learning. The end goal is to be able to replicate something similar to Alpha Star for games I play.  
+
 ### [Reverb](https://github.com/laodie666/Reverb)
 **Chrome Extension**
 A plugin that analyzes the political bias of the news site you are currently visiting to help provide context on media consumption.
